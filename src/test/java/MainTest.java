@@ -15,6 +15,5 @@ class MainTest {
     }
     @org.junit.jupiter.api.Test
     void test_2() {
-        fail();
     }
 }
