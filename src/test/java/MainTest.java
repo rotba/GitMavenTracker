@@ -10,9 +10,11 @@ class MainTest {
     @org.junit.jupiter.api.AfterEach
     void tearDown() {
     }
-
     @org.junit.jupiter.api.Test
-    void main() {
-        main.main(null);
+    void test_1() {
+    }
+    @org.junit.jupiter.api.Test
+    void test_2() {
+        fail();
     }
 }
