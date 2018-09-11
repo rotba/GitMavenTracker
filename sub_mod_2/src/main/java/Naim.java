@@ -1,5 +1,5 @@
 public class Naim {
     public int goo(){
-        return 1;
+        return 0;
     }
 }
