@@ -1,3 +1,5 @@
 public class Naim {
-    public void goo(){}
+    public int goo(){
+        return 1;
+    }
 }
