@@ -6,7 +6,11 @@ class NaimTest {
 
     Naim m = new Naim();
     @Test
-    void goo() {
+    void gooTest() {
+        assertEquals(m.goo(),0, "hey brother");
+    }
+    @Test
+    void newGooTest() {
         assertEquals(m.goo(),0, "hey brother");
     }
 }
