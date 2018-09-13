@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sub_mod_1/target/" />
@@ -134,33 +131,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -256,6 +235,15 @@
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
               <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -265,6 +253,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -409,11 +406,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19885000" />
+    <option name="totallyTimeSpent" value="19906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31556502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -516,7 +512,7 @@
     <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
