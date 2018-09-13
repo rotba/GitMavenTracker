@@ -9,4 +9,7 @@ class AssafTest {
     @Test
     void moo() {
     }
+    @Test
+    void goo() {
+    }
 }
