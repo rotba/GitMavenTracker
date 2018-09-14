@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -67,12 +66,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="68" />
+          <entry key="java" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="68" />
+          <entry key="JAVA" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -98,20 +97,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="68">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -144,8 +134,8 @@
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java" />
-        <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" />
+        <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
       </list>
     </option>
   </component>
@@ -166,6 +156,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,12 +190,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p_1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,13 +341,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21114000" />
+    <option name="totallyTimeSpent" value="21120000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19936034" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20196672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,10 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -433,10 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-          <folding>
-            <element signature="e#40#41#0" expanded="true" />
-            <element signature="e#64#65#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -473,8 +464,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
