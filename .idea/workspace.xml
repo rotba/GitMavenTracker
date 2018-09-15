@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/surefire-reports/MainTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/surefire-reports/TEST-MainTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sub_mod_1/target/test-classes/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -77,51 +68,46 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="72" />
+          <entry key="java" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="72" />
+          <entry key="JAVA" value="80" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="java" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="JAVA" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="e#159#160#0" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java">
+        <entry file="file://$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -158,13 +144,13 @@
         <option value="$PROJECT_DIR$/src/test/java/p_1/MainTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/MainTest.java" />
-        <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" />
-        <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java" />
+        <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" />
       </list>
     </option>
   </component>
@@ -174,7 +160,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-11" />
     <option name="width" value="1046" />
     <option name="height" value="1103" />
@@ -196,61 +182,43 @@
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="p_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
-              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="p_1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +230,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536853590815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537003228147" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -395,10 +363,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24991000" />
+    <option name="totallyTimeSpent" value="25060000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2194332" />
@@ -464,24 +432,10 @@
     <entry file="file://$PROJECT_DIR$/sub_mod_1/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -516,6 +470,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -523,10 +484,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
+    <entry file="file://$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="17">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

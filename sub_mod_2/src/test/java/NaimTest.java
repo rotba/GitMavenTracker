@@ -13,4 +13,8 @@ class NaimTest {
     void newGooTest() {
         assertEquals(m.goo(),0, "hey brother");
     }
+    @Test
+    void boo() {
+        assertEquals(m.goo(),0, "hey brother");
+    }
 }
