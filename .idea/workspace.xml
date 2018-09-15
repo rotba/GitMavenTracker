@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -68,12 +69,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="82" />
+          <entry key="java" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -93,8 +94,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            <state relative-caret-position="374">
+              <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
               <folding>
                 <element signature="e#159#160#0" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
@@ -104,7 +105,18 @@
                 <element signature="e#382#383#0" expanded="true" />
                 <element signature="e#409#410#0" expanded="true" />
                 <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#544#545#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -153,9 +165,9 @@
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" />
-        <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java" />
+        <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" />
       </list>
     </option>
@@ -184,6 +196,41 @@
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
               <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitMavenTrackingProject" type="462c0819:PsiDirectoryNode" />
+              <item name="sub_mod_1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p_1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GMT_P" type="b2602c69:ProjectViewProjectNode" />
@@ -236,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537011997468" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537014412931" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -369,7 +416,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25082000" />
+    <option name="totallyTimeSpent" value="25101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -479,7 +526,7 @@
     <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -499,8 +546,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        <state relative-caret-position="374">
+          <caret line="24" column="10" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
           <folding>
             <element signature="e#159#160#0" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
@@ -510,6 +557,8 @@
             <element signature="e#382#383#0" expanded="true" />
             <element signature="e#409#410#0" expanded="true" />
             <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
           </folding>
         </state>
       </provider>
