@@ -9,6 +9,10 @@ class MainTest {
     void foo() {
     }
     @Test
+    void foo_2() {
+        assertEquals(m.foo(), 0);
+    }
+    @Test
     void gooTest() {
         m.goo();
     }
