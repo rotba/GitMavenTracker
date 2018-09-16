@@ -1,4 +1,4 @@
 public class Main {
-    public void foo(){}
+    public int foo(){return 1;}
     public void goo(){}
 }
