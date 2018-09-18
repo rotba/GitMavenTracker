@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4a7ea13e-c9a9-400b-8f70-f0850b5dd969" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -90,32 +91,36 @@
     <session id="-1914475895">
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="46" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+              <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+              <folding>
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -144,12 +149,12 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/p_1/Assaf.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/p_1/AssafTest.java" />
-        <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/main/java/Naim.java" />
         <option value="$PROJECT_DIR$/sub_mod_2/src/test/java/NaimTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/MainTest.java" />
         <option value="$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java" />
+        <option value="$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java" />
       </list>
     </option>
   </component>
@@ -247,7 +252,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537090143028" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537268119424" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -380,7 +385,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25922000" />
+    <option name="totallyTimeSpent" value="26009000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1288" y="-98" width="1296" height="1000" extended-state="6" />
@@ -515,17 +520,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sub_mod_1/src/main/java/p_1/Amit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sub_mod_1/src/test/java/p_1/AmitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
