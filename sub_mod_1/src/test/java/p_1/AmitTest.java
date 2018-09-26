@@ -14,4 +14,9 @@ class AmitTest {
     void fooTest() {
         assertEquals(0,a.foo());
     }
+
+    @Test
+    void RTerrorTest() {
+        assertEquals(0,a.RTerror());
+    }
 }
