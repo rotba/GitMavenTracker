@@ -6,6 +6,6 @@ public class Amit {
     public int foo(){return 0;}
 
     public int RTerror(){
-        throw new RuntimeException();
+        return 0;
     }
 }
