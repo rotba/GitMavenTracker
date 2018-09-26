@@ -17,6 +17,6 @@ class AmitTest {
 
     @Test
     void RTerrorTest() {
-        assertEquals(0,a.RTerror());
+        assertEquals(1,a.RTerror());
     }
 }
