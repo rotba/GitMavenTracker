@@ -27,6 +27,6 @@ class AmitTest {
 	
 	@Test
     void delta_3_Test() {
-        assertEquals(1,a.foo());
+        assertEquals(0,a.foo());
     }
 }
