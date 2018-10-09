@@ -24,9 +24,6 @@ class AmitTest {
     void deltaPassedTest() {
         assertEquals(0,a.foo());
     }
-    @Test
-    void delta_3_Test() {
-        assertEquals(0,a.goo());
-    }
+
 
 }
