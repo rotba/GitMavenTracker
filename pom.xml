@@ -70,11 +70,6 @@
 				
                 
 				<version>2.22.0</version>
-				
-            
-				<configuration>
-					<argLine>-javaagent:C:\Users\user\Code\JAVA\MavenProj\agent.jar=C:\Users\user\Code\JAVA\MavenProj\paths.txt</argLine>
-				</configuration>
 			</plugin>
 			
         
