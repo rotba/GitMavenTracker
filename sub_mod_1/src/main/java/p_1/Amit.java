@@ -7,8 +7,8 @@ public class Amit {
     public int goo(){return 0;}
 	public int doo(int n){
 		int ans;
-		if( isEven(n)
-			ans  = 3 * n;
+		if( isEven(n))
+			ans  = 2 * n;
 		else
 			ans  = 2 * n;
 		return ans;
