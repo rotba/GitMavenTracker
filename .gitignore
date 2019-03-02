@@ -1,6 +1,10 @@
 .svn
 target
+sub_mod_1/target
+sub_mod_2/target
 .idea
+sub_mod_1/.idea
+sub_mod_2/.idea
 .classpath
 .project
 .settings
