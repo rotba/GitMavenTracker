@@ -12,7 +12,7 @@ class AmitTest {
     }
     @Test
     void fooTest() {
-        assertEquals(0,a.foo());
+        assertEquals(1,a.foo()+1);
     }
 
     @Test
