@@ -19,7 +19,7 @@ class AmitTest {
     void RTerrorTest() {
         assertEquals(1,a.RTerror());
     }
-    
+
     @Test
     void deltaPassedTest() {
         assertEquals(0,a.foo());
