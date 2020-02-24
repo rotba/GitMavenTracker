@@ -1,5 +1,5 @@
 package p_1;
 
 public class Dima {
-    public int foo(){return 0;}
+    public int foo(){return 1;}
 }
